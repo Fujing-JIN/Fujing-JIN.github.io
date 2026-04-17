@@ -1,7 +1,7 @@
 ---
 title: "From Macro to Micro: Sparse Macroeconomic Risks and the Cross-section of Stock Returns"
 collection: publications
-date: 2024-01-01
+date: 2024-07-01
 venue: 'International Review of Financial Analysis'
 paperurl: 'https://doi.org/10.1016/j.irfa.2024.103433'
 citation: 'Zhu, Lin, Fuwei Jiang, Guohao Tang, Fujing Jin*. (2024). "From Macro to Micro: Sparse Macroeconomic Risks and the Cross-section of Stock Returns." <i>International Review of Financial Analysis</i>, 2024: 103433.'
