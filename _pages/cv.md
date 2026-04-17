@@ -41,9 +41,21 @@ Research Interests
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
+<ul>
+  {% assign published_papers = site.publications | where: "category", "published" %}
+  {% for post in published_papers reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}
+</ul>
+
+Working Paper
+======
+<ul>
+  {% assign working_papers = site.publications | where: "category", "working-paper" %}
+  {% for post in working_papers reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}
+</ul>
   
 Talks
 ======
