@@ -1,7 +1,7 @@
 ---
 title: "优胜劣汰还是逆向选择——基于上市公司质量与股价表现关联的研究"
 collection: publications
-date: 2025-02-15
+date: 2025-02-01
 venue: '管理科学学报'
 paperurl: 'https://ycfw.library.hb.cn:8000/https/vpn/1/NNYHGLUDN3WXTLUPMW4A/kcms2/article/abstract?v=kMXxFLy7TFWkBXyzxiLvLVEEsMxppgXk_DTJGsC-qmMpsPDK2iMFWcqDgMIjPNkhc7Fw-jNymhMdGSnlzhwA_W9g0FAIkwqF37k54brAd48Q-aHiYLRExn7ZVgGP6PJZ1KrIjWf_Yex3y6Flr-QnT1fwabV4DJlP8o5pa4FoXvJ5FmTPPyff-Q==&uniplatform=NZKPT&language=CHS'
 citation: '靳馥境, 姜富伟, 唐国豪*. (2025). "优胜劣汰还是逆向选择——基于上市公司质量与股价表现关联的研究." 管理科学学报. 2025, 28 (2): 154-170.'
