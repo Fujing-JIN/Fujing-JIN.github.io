@@ -41,10 +41,39 @@ Research Interests
 
 Publications
 ======
+### Journal Articles / 期刊论文
 <ul>
-  {% assign published_papers = site.publications | where: "category", "published" %}
+  {% assign published_papers = site.publications | where: "category", "manuscripts" %}
   {% for post in published_papers reversed %}
-    {% include archive-single-cv.html %}
+    <li>
+      {% if post.citation %}
+        {{ post.citation }}
+      {% else %}
+        {{ post.title }}. <i>{{ post.venue }}</i>, {{ post.date | date: '%Y' }}.
+      {% endif %}
+      {% if post.paperurl %}
+        [<a href="{{ post.paperurl }}">PDF</a>]
+      {% endif %}
+    </li>
+  {% endfor %}
+</ul>
+
+Working Papers
+======
+### Working Papers / 工作论文
+<ul>
+  {% assign working_papers = site.publications | where: "category", "working_papers" %}
+  {% for post in working_papers reversed %}
+    <li>
+      {% if post.citation %}
+        {{ post.citation }}
+      {% else %}
+        {{ post.title }}. <i>Working Paper</i>, {{ post.date | date: '%Y' }}.
+      {% endif %}
+      {% if post.paperurl %}
+        [<a href="{{ post.paperurl }}">PDF</a>]
+      {% endif %}
+    </li>
   {% endfor %}
 </ul>
 
