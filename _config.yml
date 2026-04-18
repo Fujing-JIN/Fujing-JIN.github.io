@@ -4,7 +4,7 @@ site_theme               : "default"
 title                    : "Fujing JIN (靳馥境)"
 title_separator          : "-"
 name                     : &name "Fujing JIN"
-description              : &description "Associate Professor at Beijing Jiaotong University"
+description              : &description "Associate Professor at Beijing Jiaotong University | Visiting Scholar at WashU"
 url                      : "https://fujing-jin.github.io" 
 baseurl                  : "" 
 repository               : "fujing-jin.github.io"
@@ -14,12 +14,12 @@ author:
   avatar           : "profile.png" # 请确保在 images/ 文件夹下上传了名为 profile.png 的照片
   name             : "Fujing JIN (靳馥境)"
   bio              : "Associate Professor, Beijing Jiaotong University"
-  location         : "Beijing, China & St. Louis, MO, US"
+  location         : "St. Louis, MO & Beijing, China"
   employer         : "Beijing Jiaotong University"
   uri              : 
   email            : "fjjin at bjtu dot edu dot cn" 
 
-  # Academic websites (取消 # 即可启用)
+  # Academic websites (如需启用，删掉前面的 # 并填入正确链接)
   #googlescholar    : "https://scholar.google.com/citations?user=你的ID"
   #researchgate     : "https://www.researchgate.net/profile/Fujing-Jin"
   #orcid            : "https://orcid.org/0000-0000-0000-0000"
