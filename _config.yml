@@ -14,10 +14,10 @@ author:
   avatar           : "profile.png" # 请确保在 images/ 文件夹下上传了名为 profile.png 的照片
   name             : "Fujing JIN (靳馥境)"
   bio              : "Associate Professor, Beijing Jiaotong University"
-  location         : "St. Louis, MO & Beijing, China"
+  location         : "Beijing, China & St. Louis, US"
   employer         : "Beijing Jiaotong University"
   #uri              : 
-  email            : "fjjin [at] bjtu [dot] edu [dot] cn"
+  email            : "fjjin[at]bjtu.edu[dot]cn"
 
   # Academic websites (如需启用，删掉前面的 # 并填入正确链接)
   #googlescholar    : "https://scholar.google.com/citations?user=你的ID"
