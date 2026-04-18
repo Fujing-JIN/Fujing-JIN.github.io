@@ -17,7 +17,7 @@ I am a firm believer of staying active through change. Born in **Hegang**, Heilo
 
 ---
 
-## 🔍 Research: Jack of all trades, master of none / 爱好广泛，但不精通
+## 🔍 Research: Jack of all trades, master of some (hopefully) / 爱好广泛，但不精通
 
 * **P2P Lending ("Brexit" Curse):** I was collecting data manually, only to find the industry has largely gone with the wind. I used to read academic "horror stories" about PhD candidates whose topics vanished overnight due to the Brexit referendum—treating them as mere fables. Little did I know that I’d eventually become the protagonist of my own tragicomedy, watching my research subjects dwindle in real-time.
 * **Empirical Asset Pricing:** I focus on stock return predictability, though I’d kindly ask you not to inquire about my personal portfolio's performance. With the "help" (and occasional bullying) of AI, I am currently undergoing a rigorous technical "re-education" to stay ahead of the curve.
