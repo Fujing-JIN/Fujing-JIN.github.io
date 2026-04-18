@@ -12,7 +12,7 @@ repository               : "fujing-jin.github.io"
 # Site Author
 author:
   avatar           : "profile.png" # 请确保在 images/ 文件夹下上传了名为 profile.png 的照片
-  name             : "Fujing JIN (靳馥境)"
+  #name             : "Fujing JIN (靳馥境)"
   bio              : "Associate Professor, Beijing Jiaotong University"
   location         : "Beijing, China & St. Louis, US"
   employer         : "Beijing Jiaotong University"
