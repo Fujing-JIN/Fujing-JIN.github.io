@@ -18,12 +18,13 @@ I am a firm believer of staying active through change. Born in **Hegang**, Heilo
 ---
 
 ## 🔍 Research: Jack of all trades, master of some (hopefully) / 爱好广泛，但不精通
-
-* **P2P Lending ("Brexit" Curse):** I was collecting data manually, only to find the industry has largely gone with the wind. I used to read academic "horror stories" about PhD candidates whose topics vanished overnight due to the Brexit referendum—treating them as mere fables. Little did I know that I’d eventually become the protagonist of my own tragicomedy, watching my research subjects dwindle in real-time.
+I fell victim to the 'Brexit Curse' in the world of P2P. I was collecting metadata of the platforms manually, only to watch the industry has largely gone with the wind. I used to read academic "horror stories" about PhD candidates whose topics vanished overnight due to the Brexit referendum—treating them as mere fables. Little did I know that I’d eventually become the protagonist of my own tragicomedy, watching my research subjects dwindle in real-time.
+Now I mainly focus on: 
 * **Empirical Asset Pricing:** I focus on stock return predictability, though I’d kindly ask you not to inquire about my personal portfolio's performance. With the "help" (and occasional bullying) of AI, I am currently undergoing a rigorous technical "re-education" to stay ahead of the curve.
 * **Corporate Finance:** I have a peculiar fascination with uncovering the "Dark Side" of corporate behavior, including financial fraud, Greenwashing, and my latest obsession--Innovation Washing. If a firm is trying to hide it, I’m probably trying to model it.
 
-* **P2P借贷：** 收集样本的时候，行业没了（哭死）。以前总觉得英国脱欧导致博士课题夭折是画本里的故事，万万没想到，小丑竟是我自己……
+我以前做过P2P的相关研究。收集样本的时候，行业没了（哭死）。以前总觉得英国脱欧导致博士课题夭折是画本里的故事，万万没想到，小丑竟是我自己……
+现在主要关注：
 * **实证资产定价：** 侧重股票收益预测（千万别问我炒股怎么样）。在AI的帮助下，正沉迷于技术补课。
 * **公司金融：** 痴迷于挖掘公司不愿见人的“B面”，比如财务造假、**洗绿 (Greenwashing)**，近期更关注**“创新洗白” (Innovation Washing)**。
 
@@ -68,7 +69,7 @@ I am a firm believer of staying active through change. Born in **Hegang**, Heilo
 
 * **Academic Master (Applied Econ/Finance):** Prefer students with Ph.D. aspirations and research experience.
 * **Professional Master (MF):** Seeking those with clear 2-year career plans and a grasp of professional design paradigms.
-* **Undergraduate Research (URTP/RA):** For those who have previously collaborated with me (e.g., as an RA).
+* **Undergraduate Research (URTP):** For those who have previously collaborated with me (e.g., as an RA).
 * **Contact:** Please email(**fjjin [at] bjtu [dot] edu [dot] cn**) with a brief introduction and your rationale.
 
 * **学硕（应用经济学-金融方向）：** 更倾向于有读博意向、且已经积累了一定科研实战经验的同学。如果你想在学术道路上“折腾”出点名堂，欢迎找我一起面对“不发表就毁灭”的挑战。
