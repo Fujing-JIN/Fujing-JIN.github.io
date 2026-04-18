@@ -17,7 +17,7 @@ Education
 * B.S. in Finance, Central South University (CSU), China, 2009 - 2013
 * Visiting Student, Innovative Business Services, Lapland University of Applied Sciences (formerly RAMK), Rovaniemi, Finland, 2012-2013
 
-Work experience
+Work Experience
 ======
 * 2025 - 2026: Visiting Researcher
   * Olin Business School, Washington University in St. Louis, U.S
