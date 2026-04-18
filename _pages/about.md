@@ -10,20 +10,24 @@ redirect_from:
 ## 👋 Nice to meet you! / 欢迎来到我的主页！
 
 I am **Fujing JIN**, an Associate Professor at the School of Economics and Management, Beijing Jiaotong University. I’ve finally cleared the hurdles of graduation and the "publish or perish" tenure track (Congrats!!).
+
 I am a firm believer of staying active through change. Born in **Hegang**, Heilongjiang—a city legendary for its affordable housing and high happiness index (you’re all welcome to visit and try Hegang's BBQ!)—my academic footprints cover Changsha, Rovaniemi (Finland, City on the Arctic Circle and Hometown of Santa), Beijing, and Sydney (Australia). Currently, I am a Visiting Researcher at **Washington University in St. Louis (WashU)**, learning how to more gracefully "discipline" financial markets using Data Science and AI.
 
 我是 **靳馥境 (Fùjìng JÌN)**。目前，我是北京交通大学经济管理学院的副教授（终于不用再担心毕业和非升即走两大难题了）。
+
 我信奉生命在于折腾。我出生在黑龙江**鹤岗**——就是那个传说中万把块可以买套房、幸福指数极高的城市（欢迎大家来旅游，品尝鹤岗小串儿！）。我的学习轨迹跨越了长沙、芬兰罗瓦涅米（北极圈上的城市、圣诞老人的故乡）、北京和澳大利亚悉尼。我正作为访问学者“寄居”在**圣路易斯华盛顿大学 (WashU)**，学习如何更优雅地用数据+AI“调教”金融市场。
 
 ---
 
 ## 🔍 Research: Jack of all trades, master of some (hopefully) / 爱好广泛，但不精通
 I fell victim to the 'Brexit Curse' in the world of P2P. I was collecting metadata of the platforms manually, only to watch the industry has largely gone with the wind. I used to read academic "horror stories" about PhD candidates whose topics vanished overnight due to the Brexit referendum—treating them as mere fables. Little did I know that I’d eventually become the protagonist of my own tragicomedy, watching my research subjects dwindle in real-time.
+
 Now I mainly focus on: 
 * **Empirical Asset Pricing:** I focus on stock return predictability, though I’d kindly ask you not to inquire about my personal portfolio's performance. With the "help" (and occasional bullying) of AI, I am currently undergoing a rigorous technical "re-education" to stay ahead of the curve.
 * **Corporate Finance:** I have a peculiar fascination with uncovering the "Dark Side" of corporate behavior, including financial fraud, Greenwashing, and my latest obsession--Innovation Washing. If a firm is trying to hide it, I’m probably trying to model it.
 
 我以前做过P2P的相关研究。收集样本的时候，行业没了（哭死）。以前总觉得英国脱欧导致博士课题夭折是画本里的故事，万万没想到，小丑竟是我自己……
+
 现在主要关注：
 * **实证资产定价：** 侧重股票收益预测（千万别问我炒股怎么样）。在AI的帮助下，正沉迷于技术补课。
 * **公司金融：** 痴迷于挖掘公司不愿见人的“B面”，比如财务造假、**洗绿 (Greenwashing)**，近期更关注**“创新洗白” (Innovation Washing)**。
