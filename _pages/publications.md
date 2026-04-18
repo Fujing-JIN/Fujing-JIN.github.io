@@ -4,9 +4,7 @@ title: "Publications / 论文"
 permalink: /publications/
 author_profile: true
 ---
-
 {% include base_path %}
-
 ## Journal Articles / 期刊论文
 ***
 
