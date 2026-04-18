@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Me / 自我介绍"
+title: 
 author_profile: true
 ---
 
