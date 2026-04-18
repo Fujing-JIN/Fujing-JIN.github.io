@@ -1,6 +1,7 @@
 ---
 title: "参照点效应、公司治理与上市公司财务重述"
 collection: publications
+category: manuscripts
 date: 2023-10-01
 venue: '经济研究'
 paperurl: 'https://ycfw.library.hb.cn:8000/https/vpn/1/NNYHGLUDN3WXTLUPMW4A/kcms2/article/abstract?v=kMXxFLy7TFXA87x1_fak6BsiaFAjrqXS5OeGeNh1Ga-TnlCtEMrLwTIiXVlbe33Ye5f8G1kEyK0Z5i8DLxUZamnVah4jKY57OKhDpGOegZTQZ5FoYpBgiSn0fydZ3TtYo-SUJIE1CZ3Jh6Zgd_qrKmmXx-0TtaG4IBIzFkxxKxQ991I1qzkT1A==&uniplatform=NZKPT&language=CHS'
