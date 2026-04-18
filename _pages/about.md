@@ -1,7 +1,10 @@
 ---
 permalink: /
-title: 
+title: "About Me / 自我介绍"
+layout: single
 author_profile: true
+widgets:
+  - type: toc
 ---
 
 # 👋 Nice to meet you! / 欢迎来到我的主页！
