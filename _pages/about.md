@@ -1,55 +1,89 @@
 ---
 permalink: /
-title: "About Me"
+title: "About Me / 关于我"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-## 👋 Nice to meet you!
+## 👋 Nice to meet you! / 很高兴认识你！
 
-我是 **靳馥境 (Fujing JIN)**。目前，我是北京交通大学经济管理学院的副教授（终于不用再担心毕业&非升即走两大难题了）。
+**[English Version]**
 
-信奉生命在于折腾，出生在黑龙江鹤岗（就是传说中万把块可以买套房的城市 BTW我们那里幸福指数很高，欢迎大家来我的家乡旅游），学习轨迹包括湖南长沙、芬兰罗瓦涅米、北京、澳大利亚悉尼。此刻，我正作为访问学者“寄居”在圣路易斯华盛顿大学 (WashU)，学习如何更优雅地用数据+AI“调教”金融市场。
+I am **Fujing JIN (靳馥境)**, an Associate Professor at the School of Economics and Management, Beijing Jiaotong University. I’ve finally cleared the hurdles of graduation and the "publish or perish" tenure track, allowing me to breathe—at least for now.
 
----
+I am a firm believer that "life lies in tossing and turning" (staying active through change). Born in **Hegang**, Heilongjiang—a city legendary for its affordable housing and high happiness index (you’re all welcome to visit!)—my academic footprints cover Changsha, Rovaniemi (Finland), Beijing, and Sydney. Currently, I am a Visiting Scholar at **Washington University in St. Louis (WashU)**, learning how to more gracefully "discipline" financial markets using Data Science and AI.
 
-## 🔍 Research: 爱好广泛，但不精通
+**[中文版]**
 
-我的研究兴趣可以总结为：**“金融”**。
-我做过P2P借贷，进行中，样本收集与行业规模成反比，以前总把英国脱欧选题博士面临风险
-做**资产定价 (Asset Pricing)** 这种看起来很高端的东西，但我更着迷于挖掘那些公司不愿见人的“B面”：
-* **企业之恶：** 比如财务造假、**洗绿 (Greenwashing)**，甚至是最新流行的“创新洗白” (Innovation-washing)。
-* **情绪与偏见：** 看看投资者们是如何在 Disagreement 和 Sentiment 中反复横跳的。
-* **AI 炼金术：** 尝试用 BERT 读读文本，或者用 XGBoost 算算汇率，试图在混乱的市场里找点规律（虽然经常发现市场比我更混乱）。
+我是 **靳馥境 (Fujing JIN)**。目前，我是北京交通大学经济管理学院的副教授（终于不用再担心毕业和非升即走两大难题了）。
+
+我信奉生命在于折腾。我出生在黑龙江**鹤岗**——就是那个传说中万把块可以买套房、幸福指数极高的城市（欢迎大家去旅游）。我的学习轨迹跨越了长沙、芬兰罗瓦涅米、北京和悉尼。此刻，我正作为访问学者“寄居”在**圣路易斯华盛顿大学 (WashU)**，学习如何更优雅地用数据+AI“调教”金融市场。
 
 ---
 
-## 🏫 Teaching: 误人子弟...啊不，教书育人
+## 🔍 Research: Jack of all trades, master of none / 爱好广泛，但不精通
 
-在北交大，我主要负责“折磨” 金融专业的同学们，我主讲：
-* **量化投资 (Quantitative Investment)**：如何科学地管理风险，用亲身经历说明学术和实践之间隔着一个太平洋。
-* **证券投资与国际金融**：我只短暂开过课，足见我对知识的敬畏（换言之，我并不精通）。
-我曾连续三年获得“优秀本科生指导老师”奖，但我怀疑那是因为学生优秀，而不是因为我是个名师。
-我曾获得北京市青教赛三等奖，这次得奖经历对我而言意义非凡。它用一种非常体面的方式告诉了我：在教学这条路上，光有努力是远远不够的。三等奖挺好，它让我彻底放下了成为“一代宗师”的执念，安心做一名在北极圈冻过、在圣路易斯晃过的“佛系”教书匠。
+* **P2P Lending:** I’m still collecting samples, though the sample size seems to shrink in inverse proportion to the industry's survival. I used to think stories about PhDs facing risks due to Brexit were just fables, until I met my own "black swans"...
+* **Empirical Asset Pricing:** Specifically stock return prediction. Please don't ask me how my personal portfolio is doing. With the help of AI, I am currently obsessed with technical self-improvement.
+* **Corporate Finance:** I’m fascinated by digging into the "Dark Side" of companies—financial fraud, **Greenwashing**, and more recently, **Innovation Washing**.
 
----
-
-## 🌍 Fun Facts
-
-* **极地生存：** 2012年我曾在芬兰拉普兰当过交换生（BTW Rovaniemi是圣诞老人的故乡）。在那里我突然精通了最重要的人生技能：如何在零下30度且没有太阳的日子里，骑自行车，感谢创造反光条的发明家。
-* **特别爱好：** 从2012年开始养成了寄明信片的习惯，希望下一个15年这个习惯还在。
-* **目前的愿望：** 在 2026 年 11 月结束访学回国前，能敢开车上路，且保住我的发际线。
+* **P2P借贷：** 进行中。样本收集量与行业规模成反比。以前总觉得学长学姐讲“博士课题因外部环境突变而夭折”是剧本，万万没想到，小丑竟是我自己……
+* **实证资产定价：** 侧重股票收益预测（千万别问我炒股怎么样）。在AI的帮助下，正沉迷于技术补课。
+* **公司金融：** 痴迷于挖掘公司不愿见人的“B面”，比如财务造假、**洗绿 (Greenwashing)**，近期更关注**“创新洗白” (Innovation Washing)**。
 
 ---
 
-## 🛠 Skills & Tools
-* **Languages:** 中文（母语是最流畅的，但也有不知所云的时候，常常发生在没睡饱/大脑短路）+英文（硬着头皮能说的水平），SAS、Python、LaTeX (TBC，毕竟AI来了)
-* **Sports:** 乒乓球、羽毛球、足球、跳水（别误会，我都不会，但喜欢看）
+## 🏫 Teaching: "Misguiding" the Youth / 教书育人（误人子弟？）
+
+* **Quantitative Investment:** Teaching how to manage risk scientifically, while using my own experiences to prove that a vast "Pacific Ocean" lies between academic theory and investment practice.
+* **Securities Investment & International Finance:** I only taught these briefly—a testament to my deep reverence for knowledge (in other words, I don’t master them).
+
+**Awards & Reality Checks:**
+I’ve won the **"Outstanding Undergraduate Thesis Supervisor"** award for three consecutive years, but I suspect it’s because my students are brilliant, not because I’m a "Grandmaster." I also took home a 3rd Prize in the **Beijing Young Teachers Teaching Skills Competition**. That experience taught me gracefully that in teaching, hard work alone isn't enough. It helped me let go of the "Master" obsession and settle into being a "Zen" scholar who has survived the Arctic Circle and is now wandering through St. Louis.
+
+* **量化投资：** 如何科学地管理风险。我常用亲身经历说明：学术和实践之间隔着一个太平洋。
+* **证券投资与国际金融：** 我只短暂开过课，足见我对知识的敬畏（换言之，我不精通）。
+
+**荣誉与清醒：**
+曾连续三年获“优秀本科生指导老师”奖，但我怀疑那是学生优秀，而不是我教得好。曾获**北京市青教赛三等奖**，这让我体面地意识到：在教学路上，光努力是不够的。这三等奖挺好，让我放下了“一代宗师”的执念，安心当一名在北极圈冻过、在圣路易斯晃过的“佛系”教书匠。
+
+---
+
+## 🌍 Fun Facts / 那些琐事
+
+* **Arctic Survival:** Exchange student in Lapland (2012). I mastered the ultimate life skill: how to ride a bicycle in -30°C darkness. Shout out to the inventor of reflective strips!
+* **Postcard Obsession:** I've kept a habit of mailing postcards since 2012. Here’s to another 15 years.
+* **Current Wish:** To muster the courage to actually *drive* on US roads before my visit ends in Nov 2026—and to save my receding hairline.
+
+* **极地生存：** 2012年芬兰交换生。在那儿我精通了人生绝学：如何在零下30度且极夜的环境下骑自行车。感谢反光条发明家！
+* **特别爱好：** 自2012年起坚持寄明信片，希望下一个15年还在。
+* **目前愿望：** 2026年11月回国前，敢开车上路，且保住我的发际线。
+
+---
+
+## 🛠 Skills & Sports / 技能与运动
+
+* **Languages:** **Chinese** (Fluent, except when sleep-deprived) + **English** (The "brave enough to try" level). 
+* **Tools:** SAS, Python (Dicts are alive, JSON is dead), LaTeX (TBC, depending on how much AI helps).
+* **Sports:** Table tennis, Badminton, Soccer, Diving. (To be clear: I can't play any of them, but I’m an expert spectator.)
+
+* **语言/工具：** 中文（母语，偶尔在大脑短路时断更）+ 英文（硬着头皮上的水平）。SAS, Python, LaTeX。
+* **运动：** 乒乓球、羽毛球、足球、跳水（别误会，我都不会，但我喜欢看）。
+
+---
+
+## 📩 Prospective Students / 招生偏好
+
+* **Academic Master (Applied Econ/Finance):** Prefer students with Ph.D. aspirations and research experience.
+* **Professional Master (MF):** Seeking those with clear 2-year career plans and a grasp of professional design paradigms.
+* **Undergraduate Research (URTP/RA):** For those who have previously collaborated with me (e.g., as an RA).
+* **Contact:** Please email (**fjjin [at] bjtu.edu.cn**) with a brief introduction and your rationale.
+
+---
 
 ## 📒 Notes
-* **版权:** 以上幽默是我本人不完全具备的（如果你认为是），感谢gemini（懂的都懂）
----
+* **Credit:** The humor above is partially "AI-assisted." Special thanks to **Gemini** for helping me channel my inner wit.
 
 [Check out my CV](/cv/) or [see my publications](/publications/) for the serious version of me.
