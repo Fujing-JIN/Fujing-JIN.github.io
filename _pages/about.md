@@ -4,7 +4,7 @@ title: "About Me / 自我介绍"
 author_profile: true
 ---
 
-## 👋 Nice to meet you! / 欢迎来到我的主页！
+# 👋 Nice to meet you! / 欢迎来到我的主页！
 
 I am **Fujing JIN**, an Associate Professor at the School of Economics and Management, Beijing Jiaotong University. I’ve finally cleared the hurdles of graduation and the "publish or perish" tenure track (Congrats!!).
 
