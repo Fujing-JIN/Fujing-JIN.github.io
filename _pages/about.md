@@ -37,7 +37,7 @@ I am a firm believer of staying active through change. Born in **Hegang**, Heilo
 
 * **量化投资：** 如何科学地管理风险。我常用亲身经历说明：学术和实践之间隔着一个太平洋。
 * **证券投资与国际金融：** 我只短暂开过课，足见我对知识的敬畏（换言之，我不精通）。
-* 曾连续三年获评“优秀本科毕业设计指导教师”奖，但我怀疑那是学生优秀，而不是我教得好。曾获**北京市青教赛三等奖**，这让我体面地意识到：在教学路上，光努力是不够的。这三等奖挺好，让我放下了“一代宗师”的执念，安心当一名在北极圈冻过、在圣路易斯晃过的“佛系”教书匠。
+* 曾连续三年获评“优秀本科毕业设计指导教师”奖，但我怀疑那是学生优秀，而不是我教得好。曾获**北京市青教赛三等奖**，这让我体面地意识到：在教学路上，光努力是不够的。三等奖挺好，让我放下了“一代宗师”的执念，安心当一名在北极圈冻过、在圣路易斯晃过的“佛系”教书匠。
 
 ---
 
@@ -56,10 +56,10 @@ I am a firm believer of staying active through change. Born in **Hegang**, Heilo
 ## 🛠 Skills & Sports / 技能与运动
 
 * **Languages:** **Chinese** (Fluent, except when sleep-deprived) + **English** (The "brave enough to try" level). 
-* **Tools:** SAS, Python (Dicts are alive, JSON is dead), LaTeX (TBC, depending on how much AI helps).
-* **Sports:** Table tennis, Badminton, Soccer, Diving. (To be clear: I can't play any of them, but I’m an expert spectator.)
+* **Tools:** SAS, Python, LaTeX (TBC, depending on how much AI helps).
+* **Sports:** Table tennis, Badminton, Soccer, Diving. (To be clear: I can't play any of them, but I’m an spectator.)
 
-* **语言/工具：** 中文（母语，偶尔在大脑短路时断更）+ 英文（硬着头皮上的水平）。SAS, Python, LaTeX。
+* **语言/工具：** 中文（母语，偶尔在大脑短路时断更）+ 英文（硬着头皮上的水平）。SAS, Python, LaTeX（取决于AI老师如何教）。
 * **运动：** 乒乓球、羽毛球、足球、跳水（别误会，我都不会，但我喜欢看）。
 
 ---
@@ -69,11 +69,18 @@ I am a firm believer of staying active through change. Born in **Hegang**, Heilo
 * **Academic Master (Applied Econ/Finance):** Prefer students with Ph.D. aspirations and research experience.
 * **Professional Master (MF):** Seeking those with clear 2-year career plans and a grasp of professional design paradigms.
 * **Undergraduate Research (URTP/RA):** For those who have previously collaborated with me (e.g., as an RA).
-* **Contact:** Please email (**fjjin [at] bjtu.edu.cn**) with a brief introduction and your rationale.
+* **Contact:** Please email(**fjjin [at] bjtu [dot] edu [dot] cn**) with a brief introduction and your rationale.
+
+* **学硕（应用经济学-金融方向）：** 更倾向于有读博意向、且已经积累了一定科研实战经验的同学。如果你想在学术道路上“折腾”出点名堂，欢迎找我一起面对“不发表就毁灭”的挑战。
+* **金融专硕 (MF)：** 希望你对这 2 年的学习生活有极其清晰的职业规划，并且能够熟练掌握专硕毕业设计的研究范式。时间很短，希望你是带着目标来，载着成果走。
+* **本科生科研 (大创)：** 优先考虑那些与我有过合作经历的同学（例如我指导过的科研导师计划，或担任过我的研究助理）。我们已经共同“开过火”，磨合成本更低。
+* **联系方式：** 请发送邮件至（fjjin [at] bjtu [dot] edu [dot] cn）。邮件里请附上简要的自我介绍，并告诉我你为什么想跟我合作。
 
 ---
 
 ## 📒 Notes
 * **Credit:** The humor above is partially "AI-assisted." Special thanks to **Gemini** for helping me channel my inner wit.
+* **版权归属：** 以上幽默（如果你觉得幽默的话）并非我本人完全具备，部分功劳属于“AI 辅助创作”。特别鸣谢：Gemini。
 
 [Check out my CV](/cv/) or [see my publications](/publications/) for the serious version of me.
+想看正经的我？请移步我的 简历 (CV) 或 学术发表 (Publications)。
