@@ -12,7 +12,7 @@ I am **Fujing JIN**, an Associate Professor at the School of Economics and Manag
 
 I am a firm believer of staying active through change. Born in **Hegang**, Heilongjiang—a city legendary for its affordable housing and high happiness index (you’re all welcome to visit and try Hegang's BBQ!)—my academic footprints cover Changsha, Rovaniemi (Finland, City on the Arctic Circle and Hometown of Santa), Beijing, and Sydney (Australia). Currently, I am a Visiting Researcher at **Washington University in St. Louis (WashU)**, learning how to more gracefully "discipline" financial markets using Data Science and AI.
 
-我是 **靳馥境 (Fùjìng JÌN)**。目前，我是北京交通大学经济管理学院的副教授（终于不用再担心毕业和非升即走两大难题了）。
+我是 **靳馥境 (JÌN Fùjìng)**。目前，我是北京交通大学经济管理学院的副教授（终于不用再担心毕业和非升即走两大难题了）。
 
 我信奉生命在于折腾。我出生在黑龙江**鹤岗**——就是那个传说中万把块可以买套房、幸福指数极高的城市（欢迎大家来旅游，品尝鹤岗小串儿！）。我的学习轨迹跨越了长沙、芬兰罗瓦涅米（北极圈上的城市、圣诞老人的故乡）、北京和澳大利亚悉尼。我正作为访问学者“寄居”在**圣路易斯华盛顿大学 (WashU)**，学习如何更优雅地用数据+AI“调教”金融市场。
 
