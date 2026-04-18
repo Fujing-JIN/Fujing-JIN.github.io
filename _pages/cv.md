@@ -41,7 +41,6 @@ Research Interests
 
 Publications
 ======
-### Journal Articles / 期刊论文
 <ul>
   {% assign published_papers = site.publications | where: "category", "manuscripts" %}
   {% for post in published_papers reversed %}
@@ -60,7 +59,6 @@ Publications
 
 Working Papers
 ======
-### Working Papers / 工作论文
 <ul>
   {% assign working_papers = site.publications | where: "category", "working_papers" %}
   {% for post in working_papers reversed %}
