@@ -29,7 +29,7 @@ I am a firm believer of staying active through change. Born in **Hegang**, Heilo
 
 ---
 
-## 🏫 Teaching: "Misguiding" the Youth / 教书育人（误人子弟？）
+## 🏫 Teaching: "(Mis)Guiding" the Youth / 教书育人（误人子弟？）
 
 * **Quantitative Investment:** Teaching how to manage risk scientifically, while using my own experiences to prove that a vast "Pacific Ocean" lies between academic theory and investment practice.
 * **Securities Investment & International Finance:** I only taught these briefly—a testament to my deep reverence for knowledge (in other words, I don’t master them).
