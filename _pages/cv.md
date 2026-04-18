@@ -74,15 +74,6 @@ Working Papers
     </li>
   {% endfor %}
 </ul>
-
-Working Paper
-======
-<ul>
-  {% assign working_papers = site.publications | where: "category", "working-paper" %}
-  {% for post in working_papers reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}
-</ul>
   
 Talks
 ======
