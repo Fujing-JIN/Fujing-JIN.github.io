@@ -8,12 +8,13 @@
 #      Markdown formatted page while the second is generated using JSON.
 
     # main links
+# main links
 main:
-  - title: "About"
+  - title: "About Me / 自我介绍"
     url: /
-  - title: "CV"
+  - title: "CV / 简历"
     url: /cv/
-  - title: "Publications"
+  - title: "Publications / 论文"
     url: /publications/
 
 # 暂时不用的栏目可以用 # 注释掉，或者直接删掉
