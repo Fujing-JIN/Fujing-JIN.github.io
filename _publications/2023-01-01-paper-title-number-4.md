@@ -1,6 +1,7 @@
 ---
 title: "Financial Openness and Profitability Premium: Causal Evidence from the Shanghai-Hong Kong Stock Connect"
 collection: publications
+category: manuscripts
 date: 2023-01-01
 venue: 'Accounting & Finance'
 paperurl: 'https://onlinelibrary-wiley-com.libproxy.washu.edu/doi/10.1111/acfi.13049'
