@@ -16,7 +16,7 @@ author:
   bio              : "Associate Professor, Beijing Jiaotong University"
   location         : "St. Louis, MO & Beijing, China"
   employer         : "Beijing Jiaotong University"
-  uri              : 
+  #uri              : 
   email            : "fjjin [at] bjtu [dot] edu [dot] cn"
 
   # Academic websites (如需启用，删掉前面的 # 并填入正确链接)
