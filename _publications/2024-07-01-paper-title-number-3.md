@@ -1,6 +1,7 @@
 ---
 title: "From Macro to Micro: Sparse Macroeconomic Risks and the Cross-section of Stock Returns"
 collection: publications
+category: manuscripts
 date: 2024-07-01
 venue: 'International Review of Financial Analysis'
 paperurl: 'https://doi.org/10.1016/j.irfa.2024.103433'
