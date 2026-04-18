@@ -2,9 +2,6 @@
 permalink: /
 title: "About Me / 自我介绍"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
 ## 👋 Nice to meet you! / 欢迎来到我的主页！
