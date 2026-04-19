@@ -23,19 +23,28 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% if post.category == "working_papers" %}
-    {% include archive-single.html %}
+    <div class="list__item">
+      <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
+        <h2 class="archive__item-title" itemprop="headline">
+          {% if post.link %}
+            <a href="{{ post.link }}">{{ post.title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+          {% else %}
+            <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>
+          {% endif %}
+        </h2>
+        
+        <p class="archive__item-excerpt" itemprop="description">
+          {% if post.citation %}
+            {{ post.citation }}
+          {% else %}
+            {{ post.title }}. <i>Working Paper</i>, {{ post.date | date: '%Y' }}.
+          {% endif %}
+          
+          {% if post.paperurl %}
+            <br /><a href="{{ post.paperurl }}">Download Paper</a>
+          {% endif %}
+        </p>
+      </article>
+    </div>
   {% endif %}
 {% endfor %}
-
-<style>
-  /* 强制消除 archive 布局可能残留的顶部微小间距 */
-  .archive {
-    margin-top: 0 !important;
-  }
-  .page__title {
-    display: none !important;
-  }
-  #main {
-    padding-top: 1em !important;
-  }
-</style>
