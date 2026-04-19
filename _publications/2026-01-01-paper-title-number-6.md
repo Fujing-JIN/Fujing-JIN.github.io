@@ -3,7 +3,7 @@ title: "Agree on Disagreement: Dispersion and Cross-sectional Stock Returns"
 collection: publications
 category: working_papers
 date: 2026-01-01
-citation: 'Zhu, Lin, Fuwei Jiang, Guohao Tang, <b>Fujing Jin*</b>. (2026). "Agree on Disagreement: Dispersion and Cross-sectional Stock Returns." Submitted to <i>Journal of Banking & Finance<i>, Under review.'
+citation: 'Zhu, Lin, Fuwei Jiang, Guohao Tang, <b>Fujing Jin*</b>. (2026). "Agree on Disagreement: Dispersion and Cross-sectional Stock Returns." Submitted to <i>Journal of Banking & Finance</i>, Under review.'
 
 ---
 
