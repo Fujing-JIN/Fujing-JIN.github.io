@@ -1,25 +1,21 @@
 ---
-layout: single
+layout: archive
 title: ""
 permalink: /publications/
 author_profile: true
 ---
 
-<style>
-  /* 1. 彻底移除顶部空白 */
-  .page__header, .page__title, .breadcrumbs { display: none !important; }
-  #main { padding-top: 0 !important; margin-top: 0 !important; }
-  .page__inner-wrap { padding-top: 0 !important; margin-top: 0 !important; }
-
-  /* 2. 控制板块间距：让“工作论文”标题不那么靠下 */
-  h2 { margin-top: 1.2em !important; margin-bottom: 0.5em !important; }
-  .archive__item { margin-bottom: 1.5em !important; }
-</style>
-
 {% include base_path %}
 
+<style>
+  /* 强制消除顶部所有占位空间 */
+  #main { padding-top: 0 !important; margin-top: 0 !important; }
+  .archive { margin-top: 0 !important; }
+  /* 调整两个大标题之间的间距 */
+  h2 { margin-top: 1.2em !important; margin-bottom: 0.8em !important; border-bottom: 1px solid #eee; padding-bottom: 0.2em; }
+</style>
+
 ## Journal Articles / 期刊论文
-***
 
 {% for post in site.publications reversed %}
   {% if post.category == "manuscripts" %}
@@ -28,11 +24,10 @@ author_profile: true
 {% endfor %}
 
 ## Working Papers / 工作论文
-***
 
 {% for post in site.publications reversed %}
   {% if post.category == "working_papers" %}
-### [{{ post.title }}]({{ base_path }}{{ post.url }})
+### [{{ post.title }}]({{ post.url }})
 {{ post.citation }} {% if post.paperurl %}[[PDF]({{ post.paperurl }})]{% endif %}
   {% endif %}
 {% endfor %}
