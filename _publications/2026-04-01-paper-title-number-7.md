@@ -3,7 +3,7 @@ title: "Watch and Foresee: Evaluate Video Media Sentiment through Large Language
 collection: publications
 category: working_papers
 date: 2026-04-01
-citation: 'Jiang, Fuwei, <b>Fujing Jin</b>, Tian Ma*. (2026). "Watch and Foresee: Evaluate Video Media Sentiment through Large Language Model." <i>Working Paper<i>.'
+citation: 'Jiang, Fuwei, <b>Fujing Jin</b>, Tian Ma*. (2026). "Watch and Foresee: Evaluate Video Media Sentiment through Large Language Model." <i>Working Paper</i>.'
 
 ---
 
