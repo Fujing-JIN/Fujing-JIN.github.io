@@ -4,7 +4,7 @@ collection: publications
 category: working_papers
 date: 2025-10-01
 paperurl: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4890511'
-citation: 'Jiang, Fuwei, <b>Fujing Jin*</b>, Tian Ma. (2025). "Narrative Salience and Stock Returns." Submitted to <i>Journal of Business Finance & Accounting<i>, Under review.
+citation: 'Jiang, Fuwei, <b>Fujing Jin*</b>, Tian Ma. (2025). "Narrative Salience and Stock Returns." Submitted to <i>Journal of Business Finance & Accounting<i>, Under review.'
 
 ---
 
