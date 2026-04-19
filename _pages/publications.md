@@ -24,10 +24,21 @@ author_profile: true
 {% endfor %}
 
 ## Working Papers / 工作论文
+***
 
 {% for post in site.publications reversed %}
   {% if post.category == "working_papers" %}
 ### [{{ post.title }}]({{ post.url }})
+
 {{ post.citation }} {% if post.paperurl %}[[PDF]({{ post.paperurl }})]{% endif %}
+
+<details style="margin-top: 0.5em; cursor: pointer;">
+  <summary style="color: #494E52; font-weight: bold;">Abstract / 摘要 (点击展开)</summary>
+  <div style="margin-top: 10px; font-size: 0.95em; line-height: 1.5; color: #666; text-align: justify;">
+    {{ post.content | strip_html }}
+  </div>
+</details>
+
+<br />
   {% endif %}
 {% endfor %}
