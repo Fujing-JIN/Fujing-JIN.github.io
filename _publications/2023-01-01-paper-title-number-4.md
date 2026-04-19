@@ -5,7 +5,7 @@ category: manuscripts
 date: 2023-01-01
 venue: 'Accounting & Finance'
 paperurl: 'https://onlinelibrary-wiley-com.libproxy.washu.edu/doi/10.1111/acfi.13049'
-citation: 'Jiang, Fuwei, <b>Fujing Jin*</b>, and Kejia Zhang. (2023). "Financial Openness and Profitability Premium: Causal Evidence from the Shanghai-Hong Kong Stock Connect." <i>Accounting & Finance</i>, 63(1): 451-483.'
+citation: 'Jiang, Fuwei, <b>Fujing Jin*</b>, Kejia Zhang. (2023). "Financial Openness and Profitability Premium: Causal Evidence from the Shanghai-Hong Kong Stock Connect." <i>Accounting & Finance</i>, 63(1): 451-483.'
 
 ---
 
