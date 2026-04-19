@@ -1,22 +1,19 @@
 ---
-layout: archive
-title: "Publications / 论文"
+layout: single
+title: ""
 permalink: /publications/
 author_profile: true
 ---
 
 <style>
-  /* 彻底消除顶部留白 */
-  .page__header, .page__title { display: none !important; }
-  .archive { margin-top: 0 !important; }
-  #main { padding-top: 1em !important; }
-  
-  /* 调整标题间距，解决“过宽”问题 */
-  h2 {
-    margin-top: 1.5em !important; /* 调整两个板块之间的距离 */
-    margin-bottom: 0.5em !important;
-  }
-  hr { margin-top: 0.2em !important; }
+  /* 1. 彻底移除顶部空白 */
+  .page__header, .page__title, .breadcrumbs { display: none !important; }
+  #main { padding-top: 0 !important; margin-top: 0 !important; }
+  .page__inner-wrap { padding-top: 0 !important; margin-top: 0 !important; }
+
+  /* 2. 控制板块间距：让“工作论文”标题不那么靠下 */
+  h2 { margin-top: 1.2em !important; margin-bottom: 0.5em !important; }
+  .archive__item { margin-bottom: 1.5em !important; }
 </style>
 
 {% include base_path %}
@@ -35,22 +32,7 @@ author_profile: true
 
 {% for post in site.publications reversed %}
   {% if post.category == "working_papers" %}
-    <div class="list__item">
-      <article class="archive__item">
-        <h2 class="archive__item-title">
-          <a href="{{ post.url }}">{{ post.title }}</a>
-        </h2>
-        <p class="archive__item-excerpt">
-          {% if post.citation %}
-            {{ post.citation }}
-          {% else %}
-            {{ post.title }}. <i>Working Paper</i>, {{ post.date | date: '%Y' }}.
-          {% endif %}
-          {% if post.paperurl %}
-            <br /><a href="{{ post.paperurl }}">Download Paper</a>
-          {% endif %}
-        </p>
-      </article>
-    </div>
+### [{{ post.title }}]({{ base_path }}{{ post.url }})
+{{ post.citation }} {% if post.paperurl %}[[PDF]({{ post.paperurl }})]{% endif %}
   {% endif %}
 {% endfor %}
