@@ -59,22 +59,23 @@ Publications
 
 Working Papers
 ======
-<ul>
-  {% assign working_papers = site.publications | where: "category", "working_papers" %}
-  {% for post in working_papers reversed %}
-    <li>
-      {% if post.citation %}
-        {{ post.citation }}
-      {% else %}
-        {{ post.title }}. <i>Working Paper</i>, {{ post.date | date: '%Y' }}.
-      {% endif %}
-      {% if post.paperurl %}
-        [<a href="{{ post.paperurl }}">PDF</a>]
-      {% endif %}
-    </li>
-  {% endfor %}
+
+<ul style="margin-left: 0; list-style: none;">
+{% assign working_papers = site.publications | where: "category", "working_papers" %}
+{% for post in working_papers reversed %}
+  <li style="margin-bottom: 1em;">
+    {% if post.citation %}
+      {{ post.citation }}
+    {% else %}
+      {{ post.title }}. <i>Working Paper</i>, {{ post.date | date: '%Y' }}.
+    {% endif %}
+    {% if post.paperurl %}
+      [<a href="{{ post.paperurl }}">PDF</a>]
+    {% endif %}
+  </li>
+{% endfor %}
 </ul>
-  
+
 Talks
 ======
 * TSTE 2025 Editors-in-Chief Face-to-Face Conference on Transportation Economics, 11/2025, Beijing, China (Moderator of Thematic Meeting)
